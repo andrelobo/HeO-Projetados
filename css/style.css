@@ -133,6 +133,14 @@ h6,
     transition: .5s;
 }
 
+.navbar-toggler-icon {
+    
+    width: 0.5em !important;
+    height: 0.5em !important;
+    
+  }
+  
+
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link {
         margin-right: 0;
