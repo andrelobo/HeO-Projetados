@@ -18,7 +18,7 @@ h4,
 .h3,
 .h4,
 .fw-medium {
-    font-weight: 500 !important;
+    font-weight: 300 !important;
 }
 
 h5,
@@ -103,6 +103,7 @@ h6,
 
 /*** Navbar ***/
 .navbar .dropdown-toggle::after {
+    
     border: none;
     content: "\f107";
     font-family: "Font Awesome 5 Free";
@@ -110,6 +111,8 @@ h6,
     vertical-align: middle;
     margin-left: 8px;
 }
+
+
 
 .navbar .navbar-nav .nav-link {
     margin-right: 30px;
